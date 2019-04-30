@@ -1,13 +1,9 @@
 # We need to generate a random string of a fixed length.
-# Generate a random string with lower case and upper case.
 # Generate a random alphanumeric string with letters and numbers.
-# Generate a random string which contains the letters, digits, and special characters.
+# Generate a random string which contains uppercase and lowercase letters, digits, and special characters.
 # Generate a random password.
-# Use the UUID module and secrets module to generate a secure random string for 
+# Use the SystemRandom method to generate a secure random string for 
 # the sensitive application.
-
-#!/
-
 
 import Tkinter as tk
 from Tkinter import *
